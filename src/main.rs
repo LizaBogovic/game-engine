@@ -1,3 +1,3 @@
 fn main() {
-    println!("the something");
+    println!("I'm nothing");
 }

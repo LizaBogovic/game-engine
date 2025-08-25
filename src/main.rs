@@ -1,5 +1,5 @@
 mod engine;
 
 fn main() {
-    println!("I'm nothing wewewe");
+    println!("I'm nothing");
 }
